@@ -29,6 +29,10 @@ Rep-MTL (ICCV 2025) is a representation-level regularization method for multi-ta
 ## Updates
 - [June 26, 2025] 🎉 Our paper has been accepted to ICCV 2025! We are currently working on cleaning and organizing our codebase. Stay tuned for updates! Please feel free to open an issue for discussions.
 
+
+## Contact
+For any questions, please contact [Zedong Wang](https://jacky1128.github.io) or open an issue.
+
 ## Acknowledgements
 
 Thanks to these public repositories: [LibMTL](https://github.com/facebookresearch/PoseDiffusion), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO) and many other inspiring works in the community.
