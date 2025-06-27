@@ -29,7 +29,7 @@ Rep-MTL (ICCV 2025) is a representation-level regularization method for multi-ta
 
 
 ## Updates
-- [June 26, 2025] 🎉 Our paper has been accepted to ICCV 2025! We are currently working on cleaning and re-organizing our codebase. Stay tuned for updates! Please feel free to open an issue for discussions.
+- [June 26, 2025] 🎉 Our paper has been accepted to ICCV 2025! We are currently working on cleaning and organizing our codebase. Stay tuned for updates! Please feel free to open an issue for discussions.
 
 ## Acknowledgements
 
