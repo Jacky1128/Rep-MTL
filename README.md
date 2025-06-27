@@ -12,7 +12,7 @@
 **[The Hong Kong University of Science and Technology](https://www.robots.ox.ac.uk/~vgg/)**; **[Westlake University](https://ai.facebook.com/research/)**
 
 
-[Zedong Wang](https://jytime.github.io/), [Siyuan Li](https://silent-chen.github.io/), [Dan Xu](https://nikitakaraevv.github.io/)
+[Zedong Wang](https://jacky1128.github.io), [Siyuan Li](https://lupin1998.github.io), [Dan Xu](https://www.danxurgb.net)
 </div>
 
 ```bibtex
@@ -26,4 +26,4 @@
 
 ## Acknowledgements
 
-Thanks to these great repositories: [LibMTL](https://github.com/facebookresearch/PoseDiffusion), [VGGSfM](https://github.com/facebookresearch/vggsfm), [CoTracker](https://github.com/facebookresearch/co-tracker) and many other inspiring works in the multi-task learning community.
+Thanks to these public repositories: [LibMTL](https://github.com/facebookresearch/PoseDiffusion), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO) and many other inspiring works in the community.
