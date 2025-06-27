@@ -7,11 +7,9 @@
 <a href="https://github.com/Jacky1128/RepMTL/stargazers"><img src="https://img.shields.io/github/stars/Jacky1128/RepMTL?style=social" alt="Stars"></a>
 
 
-**[The Hong Kong University of Science and Technology](https://hkust.edu.hk)**; **[Westlake University](https://en.westlake.edu.cn)**
+[Zedong Wang](https://jacky1128.github.io)<sup>1</sup>, [Siyuan Li](https://lupin1998.github.io)<sup>2</sup>, [Dan Xu](https://www.danxurgb.net)<sup>1</sup>
 
-
-[Zedong Wang](https://jacky1128.github.io), [Siyuan Li](https://lupin1998.github.io), [Dan Xu](https://www.danxurgb.net)
-</div>
+<sup>1</sup>The Hong Kong University of Science and Technology,  <sup>2</sup>Westlake University
 
 ```bibtex
 @inproceedings{iccv2025repmtl,
