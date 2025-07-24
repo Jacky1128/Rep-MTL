@@ -12,6 +12,8 @@
 <sup>1</sup>The Hong Kong University of Science and Technology,  <sup>2</sup>Zhejiang University
 </div>
 
+✨ ICCV 2025 Highlight ✨
+
 
 ## Overview
 
