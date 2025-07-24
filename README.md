@@ -12,15 +12,6 @@
 <sup>1</sup>The Hong Kong University of Science and Technology,  <sup>2</sup>Zhejiang University
 </div>
 
-```bibtex
-@inproceedings{iccv2025repmtl,
-  title={Rep-MTL: Unleashing the Power of Representation-level Task Saliency for Multi-Task Learning},
-  author={Wang, Zedong and Li, Siyuan and Xu, Dan},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  year={2025}
-}
-```
-
 
 ## Overview
 
@@ -34,6 +25,18 @@ Rep-MTL (ICCV 2025) is a representation-level regularization method for multi-ta
 
 ## Contact
 For any questions, please contact [Zedong Wang](https://jacky1128.github.io) or open an issue.
+
+## BibTeX
+
+```bibtex
+@inproceedings{iccv2025repmtl,
+  title={Rep-MTL: Unleashing the Power of Representation-level Task Saliency for Multi-Task Learning},
+  author={Wang, Zedong and Li, Siyuan and Xu, Dan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  year={2025}
+}
+```
+
 
 ## Acknowledgements
 
