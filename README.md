@@ -21,7 +21,7 @@ Rep-MTL is a representation-level regularization method for multi-task learning 
 
 ## Updates
 - [July 24, 2025] 🎉 The paper was selected as **Highlight** by ICCV 2025! 
-- [June 26, 2025] The paper has been accepted at ICCV 2025! We are currently working on cleaning and organizing our codebase. Stay tuned for updates! Please feel free to open an issue for discussions.
+- [June 26, 2025] The paper has been accepted at ICCV 2025! We are currently working on cleaning and organizing our codebase. Stay tuned for updates!
 
 
 ## Contact
