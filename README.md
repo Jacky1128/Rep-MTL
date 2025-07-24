@@ -15,7 +15,7 @@
 
 ## Overview
 
-Rep-MTL (ICCV 2025) is a representation-level regularization method for multi-task learning that introduces task saliency-based objectives to encourage cross-task feature sharing and mitigate negative transfer.
+Rep-MTL is a representation-level regularization method for multi-task learning that introduces task saliency-based objectives to encourage cross-task information sharing while mitigating negative transfer.
 
 
 
