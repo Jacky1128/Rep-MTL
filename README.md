@@ -41,4 +41,4 @@ For any questions, please contact [Zedong Wang](https://jacky1128.github.io) or 
 
 ## Acknowledgements
 
-Thanks to these public repositories: [LibMTL](https://github.com/facebookresearch/PoseDiffusion), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO) and many other inspiring works in the community.
+Thanks to great implementation of these public repositories: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO) and many other inspiring works in the community.
