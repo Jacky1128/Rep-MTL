@@ -41,4 +41,4 @@ For any questions, please feel free to contact us by sending emails to [Zedong W
 
 ## Acknowledgements
 
-Thanks to great implementation of these public repositories: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO) and many other inspiring works in the community.
+Thanks to great implementation of these repositories: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO) and many other inspiring works in the community.
