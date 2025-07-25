@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Rep-MTL: Unleashing the Power of Representation-level Task Saliency for Multi-Task Learning (ICCV 2025 Highlight)</h1>
+<h1>Rep-MTL: Unleashing the Power of Representation-level Task Saliency for Multi-Task Learning (ICCV 2025)</h1>
 
 <a href="https://arxiv.org/abs/2503.11651"><img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b" alt="arXiv"></a>
 <a href="https://vgg-t.github.io/"><img src="https://img.shields.io/badge/Project_Page-4CAF50" alt="Project Page"></a>
