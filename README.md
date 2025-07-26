@@ -63,7 +63,7 @@ For questions or research exchanges, please reach out to [Zedong Wang](https://j
 @inproceedings{iccv2025repmtl,
   title={Rep-MTL: Unleashing the Power of Representation-level Task Saliency for Multi-Task Learning},
   author={Wang, Zedong and Li, Siyuan and Xu, Dan},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  booktitle={IEEE/CVF International Conference on Computer Vision (ICCV)},
   year={2025}
 }
 ```
