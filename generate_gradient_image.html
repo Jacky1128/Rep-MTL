@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate ICCV 2025 Highlight Image</title>
+</head>
+<body>
+    <h2>Generate ICCV 2025 Highlight Image</h2>
+    <canvas id="canvas" width="350" height="50" style="border: 1px solid #ccc;"></canvas>
+    <br><br>
+    <button onclick="downloadImage()">Download PNG</button>
+    
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        
+        // Clear canvas with transparent background
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        
+        // Create Hawaii-inspired gradient
+        const gradient = ctx.createLinearGradient(0, 0, canvas.width, 0);
+        gradient.addColorStop(0, '#FF6B6B');    // Coral
+        gradient.addColorStop(0.33, '#FF8E88'); // Light coral
+        gradient.addColorStop(0.66, '#FF5747'); // Tropical red
+        gradient.addColorStop(1, '#EE5353');    // Deep coral
+        
+        // Set font and style
+        ctx.font = 'bold 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif';
+        ctx.fillStyle = gradient;
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        
+        // Add letter spacing by drawing each character separately
+        const text = '✨ ICCV 2025 Highlight ✨';
+        const x = canvas.width / 2;
+        const y = canvas.height / 2;
+        
+        ctx.fillText(text, x, y);
+        
+        function downloadImage() {
+            const link = document.createElement('a');
+            link.download = 'iccv2025-highlight.png';
+            link.href = canvas.toDataURL();
+            link.click();
+        }
+        
+        // Auto-generate the image
+        console.log('Image generated! Click "Download PNG" to save.');
+    </script>
+</body>
+</html> 

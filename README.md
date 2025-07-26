@@ -3,7 +3,7 @@
 
 <!-- Hawaii-Inspired Gradient Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=✨+ICCV+2025+Highlight+✨&font=Fira%20Code&weight=600&size=20&duration=1&pause=999999&center=true&vCenter=true&width=300&height=40&color=FF6B6B" alt="ICCV 2025 Highlight" />
+  <strong style="font-size: 1.2em; color: #FF6B6B;">✨ ICCV 2025 Highlight ✨</strong>
 </p>
 
 <br/>
