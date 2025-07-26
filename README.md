@@ -12,9 +12,11 @@
   <a href="https://arxiv.org/abs/2503.11651">
     <img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b.svg?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
   </a>
+
   <a href="https://vgg-t.github.io/">
     <img src="https://img.shields.io/badge/Project-Page-blue.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Page"/>
   </a>
+  
   <a href="https://huggingface.co/spaces/facebook/vggt">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-yellow.svg?style=for-the-badge&logoColor=white" alt="Demo"/>
   </a>
