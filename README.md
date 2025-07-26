@@ -3,7 +3,7 @@
 
 <!-- Hawaii-Inspired Gradient Text -->
 <p align="center">
-  <img src="img/iccv2025-highlight.png" alt="ICCV 2025 Highlight" width="90%" />
+  <img src="img/iccv2025-highlight.png" alt="ICCV 2025 Highlight" width="80%" />
 </p>
 
 

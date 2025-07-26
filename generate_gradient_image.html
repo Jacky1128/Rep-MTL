@@ -18,12 +18,12 @@
         // Clear canvas
         ctx.clearRect(0, 0, canvas.width, canvas.height);
         
-        // Create pure Hawaii coral-red gradient (no orange tones)
+        // Create enhanced Hawaii coral gradient with stronger contrast
         const gradient = ctx.createLinearGradient(0, 0, canvas.width, 0);
-        gradient.addColorStop(0, '#FF5757');    // Pure saturated coral
-        gradient.addColorStop(0.33, '#FF4757');  // Vibrant coral-red
-        gradient.addColorStop(0.66, '#EE4B4B');  // Deep coral
-        gradient.addColorStop(1, '#E84142');     // Rich coral-red
+        gradient.addColorStop(0, '#FF8A80');    // Light coral (brighter start)
+        gradient.addColorStop(0.33, '#FF5252');  // Medium coral-red
+        gradient.addColorStop(0.66, '#E53935');  // Deep coral-red
+        gradient.addColorStop(1, '#C62828');     // Dark coral-red (stronger end)
         
         // Set large font
         ctx.font = 'bold 36px Arial, sans-serif';
