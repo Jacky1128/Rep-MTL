@@ -44,10 +44,6 @@
 Rep-MTL is a representation-level regularization method for multi-task learning that introduces task saliency-based objectives to encourage inter-task complementarity via Cross-task Saliency Alignment (CSA) while mitigating negative transfer among tasks via Task-specific Saliency Regulation (TSR).
 
 
-<div align="center">
-  <img src="img/Method.png" alt="Rep-MTL Method Details" width="90%"/>
-</div>
-
 
 ## Updates
 - **[July 24, 2025]** 🎉 Rep-MTL was selected as **Highlight** by ICCV 2025! We are working on cleaning and re-organizing our codebase. Stay tuned for updates!
