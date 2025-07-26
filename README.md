@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b.svg?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
   </a>
   <a href="https://vgg-t.github.io/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Project%20Page-Website-blue.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Project Page"/>
+    <img src="https://img.shields.io/badge/PROJECT-repmtl--page-blue.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Project Page"/>
   </a>
   <a href="https://huggingface.co/spaces/facebook/vggt" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/🤗%20Demo-HuggingFace-yellow.svg?style=for-the-badge&logoColor=white" alt="Demo"/>
+    <img src="https://img.shields.io/badge/HUGGINGFACE-DailyPaper-yellow.svg?style=for-the-badge&logoColor=white" alt="Demo"/>
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <br/>
 
-**[Zedong Wang](https://jacky1128.github.io)<sup>1</sup> · [Siyuan Li](https://lupin1998.github.io)<sup>2</sup> · [Dan Xu](https://www.danxurgb.net)<sup>1</sup>**
+**[Zedong Wang](https://jacky1128.github.io)<sup>1</sup>, [Siyuan Li](https://lupin1998.github.io)<sup>2</sup>, [Dan Xu](https://www.danxurgb.net)<sup>1</sup>**
 
 <sup>1</sup>*The Hong Kong University of Science and Technology* · <sup>2</sup>*Zhejiang University*
 
