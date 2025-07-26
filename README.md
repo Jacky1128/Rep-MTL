@@ -37,22 +37,24 @@
   <p><em><strong>(a)</strong> Most existing optimizer-centric MTL methods largely focus on addressing conflicts in model update. <strong>(b)</strong> Our Rep-MTL instead exploits the shared representation space to explicitly facilitate cross-task information sharing while preserving task-specific learning signals via regularization without optimizer modifications.</em></p>
 </div>
 
-<br/>
 
 
 ## Overview
 
-Rep-MTL is a representation-level regularization method for multi-task learning that introduces task saliency-based objectives to encourage cross-task information sharing while mitigating negative transfer.
+**Rep-MTL** is a representation-level regularization method for multi-task learning that introduces **task saliency-based objectives** to encourage cross-task information sharing while mitigating negative transfer.
 
 
 
 ## Updates
-- [July 24, 2025] 🎉 Rep-MTL was selected as **Highlight** by ICCV 2025! We are currently working on cleaning and re-organizing our codebase. Stay tuned for updates!
-- [June 26, 2025] Rep-MTL has been accepted to ICCV 2025!
+- **[July 24, 2025]** 🎉 Rep-MTL was selected as **Highlight** by ICCV 2025! We are working on cleaning and re-organizing our codebase. Stay tuned for updates!
+- **[June 26, 2025]** 📝 Rep-MTL has been accepted to ICCV 2025!
 
 
 ## Contact
-For questions or exchanges, please reach out to [Zedong Wang](https://jacky1128.github.io) by email `zedong.wang@connect.ust.hk`.
+
+For questions, exchanges, or collaborations, please reach out to [Zedong Wang](https://jacky1128.github.io) via `zedong.wang@connect.ust.hk`.
+
+
 
 ## BibTeX
 
@@ -69,4 +71,6 @@ For questions or exchanges, please reach out to [Zedong Wang](https://jacky1128.
 
 ## Acknowledgements
 
-We extend our gratitude to the great implementation of public repositories: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO) and many other inspiring works in the broader community.
+We extend our gratitude to the excellent public repositories that have supported our work: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO). We also thank the broader MTL community for their inspiring contributions.
+
+
