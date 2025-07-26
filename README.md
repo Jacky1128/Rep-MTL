@@ -6,7 +6,6 @@
   <img src="img/iccv2025-highlight.png" alt="ICCV 2025 Highlight" width="90%" />
 </p>
 
-<br/>
 
 <a href="https://arxiv.org/abs/2503.11651"><img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b" alt="arXiv"></a>
 <a href="https://vgg-t.github.io/"><img src="https://img.shields.io/badge/Project_Page-4CAF50" alt="Project Page"></a>
