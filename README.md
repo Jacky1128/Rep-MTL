@@ -7,10 +7,18 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2503.11651"><img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b" alt="arXiv"></a>
-  <a href="https://vgg-t.github.io/"><img src="https://img.shields.io/badge/Project_Page-4CAF50" alt="Project Page"></a>
-  <a href='https://huggingface.co/spaces/facebook/vggt'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
-  <a href="https://github.com/Jacky1128/RepMTL/stargazers"><img src="https://img.shields.io/github/stars/Jacky1128/RepMTL?style=social" alt="Stars"></a>
+  <a href="https://arxiv.org/abs/2503.11651">
+    <img src="https://img.shields.io/badge/📖_Paper-arXiv-ff6b6b?style=for-the-badge&logoColor=white" alt="arXiv Paper"/>
+  </a>
+  <a href="https://vgg-t.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Project-Page-4ecdc4?style=for-the-badge&logoColor=white" alt="Project Page"/>
+  </a>
+  <a href="https://huggingface.co/spaces/facebook/vggt">
+    <img src="https://img.shields.io/badge/🤗_Demo-HuggingFace-feca57?style=for-the-badge&logoColor=white" alt="Hugging Face Demo"/>
+  </a>
+  <a href="https://github.com/Jacky1128/RepMTL/stargazers">
+    <img src="https://img.shields.io/github/stars/Jacky1128/RepMTL?style=for-the-badge&logo=github&logoColor=white&color=a8e6cf&labelColor=555" alt="GitHub Stars"/>
+  </a>
 </p>
 
 <br/>
