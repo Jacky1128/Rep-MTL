@@ -4,7 +4,7 @@
 
 <!-- Hawaiian Tropical Flower Inspired ICCV 2025 Highlight -->
 <div align="center" style="margin: 35px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,16,19&height=130&section=header&text=ICCV%202025%20Highlight%20Paper&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Honolulu%2C%20Hawaii&descSize=17&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,16,19&height=130&section=header&text=ICCV%202025%20Highlight%20Paper&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Honolulu%2C%20Hawaii&descSize=19&descAlignY=62&fontFamily=Playfair+Display" width="100%"/>
 </div>
 
 
