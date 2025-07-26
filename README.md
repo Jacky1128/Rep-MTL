@@ -2,24 +2,29 @@
 
 # Rep-MTL: Unleashing the Power of Representation-level Task Saliency for Multi-Task Learning
 
-<p align="center">
-  <img src="img/iccv2025-highlight.png" alt="ICCV 2025 Highlight" width="70%" />
-</p>
+<!-- Hawaiian Sunset Inspired ICCV 2025 Highlight -->
+<div align="center" style="margin: 35px 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,16,19&height=100&section=header&text=ICCV%202025&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Highlight%20Paper%20·%20Honolulu%2C%20Hawaii&descSize=14&descAlignY=60" width="100%"/>
+</div>
+
 
 <p align="center">
   <a href="https://arxiv.org/abs/2503.11651">
-    <img src="https://img.shields.io/badge/📖_Paper-arXiv-ff6b6b?style=for-the-badge&logoColor=white" alt="arXiv Paper"/>
+    <img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b.svg?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
   </a>
   <a href="https://vgg-t.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Project-Page-4ecdc4?style=for-the-badge&logoColor=white" alt="Project Page"/>
+    <img src="https://img.shields.io/badge/Project-Page-blue.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Page"/>
   </a>
   <a href="https://huggingface.co/spaces/facebook/vggt">
-    <img src="https://img.shields.io/badge/🤗_Demo-HuggingFace-feca57?style=for-the-badge&logoColor=white" alt="Hugging Face Demo"/>
-  </a>
-  <a href="https://github.com/Jacky1128/RepMTL/stargazers">
-    <img src="https://img.shields.io/github/stars/Jacky1128/RepMTL?style=for-the-badge&logo=github&logoColor=white&color=a8e6cf&labelColor=555" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-yellow.svg?style=for-the-badge&logoColor=white" alt="Demo"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Jacky1128/RepMTL/stargazers">
+    <img src="https://img.shields.io/github/stars/Jacky1128/RepMTL?style=for-the-badge&logo=github&logoColor=white&color=black" alt="GitHub Stars"/>
+  </a>
+
 
 <br/>
 
@@ -28,9 +33,6 @@
 <sup>1</sup>*The Hong Kong University of Science and Technology* · <sup>2</sup>*Zhejiang University*
 
 </div>
-
-
-
 
 ## Overview
 
