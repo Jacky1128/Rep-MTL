@@ -29,9 +29,10 @@ Rep-MTL is a representation-level regularization method for multi-task learning 
 
 
 ## Contact
-For any questions, please contact [Zedong Wang](https://jacky1128.github.io) by email `zedong.wang@connect.ust.hk`.
+For questions or exchanges, please reach out to [Zedong Wang](https://jacky1128.github.io) by email `zedong.wang@connect.ust.hk`.
 
 ## BibTeX
+
 
 ```bibtex
 @inproceedings{iccv2025repmtl,
@@ -45,4 +46,4 @@ For any questions, please contact [Zedong Wang](https://jacky1128.github.io) by 
 
 ## Acknowledgements
 
-Thanks to great implementation of these repositories: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO) and many other inspiring works in the community.
+We extend our gratitude to the great implementation of these public repositories: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO) and many other inspiring works in the broader community.
