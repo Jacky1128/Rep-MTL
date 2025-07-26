@@ -1,11 +1,9 @@
 <div align="center">
 <h1>Rep-MTL: Unleashing the Power of Representation-level Task Saliency for Multi-Task Learning</h1>
 
-<!-- Elegant Highlight Label -->
-<p align="center" style="margin: 10px 0;">
-  <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 600; font-size: 18px; letter-spacing: 1px;">
-    ✨ ICCV 2025 Highlight ✨
-  </span>
+<!-- Hawaii-Inspired Elegant Label -->
+<p align="center">
+  <strong><em>🌺 ICCV 2025 Highlight 🌺</em></strong>
 </p>
 
 <br/>
@@ -55,4 +53,4 @@ For questions or exchanges, please reach out to [Zedong Wang](https://jacky1128.
 
 ## Acknowledgements
 
-We extend our gratitude to the great implementation of these public repositories: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO) and many other inspiring works in the broader community.
+We extend our gratitude to the great implementation of public repositories: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO) and many other inspiring works in the broader community.
