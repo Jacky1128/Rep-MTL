@@ -1,10 +1,12 @@
 <div align="center">
 <h1>Rep-MTL: Unleashing the Power of Representation-level Task Saliency for Multi-Task Learning</h1>
 
-<!-- Hawaii-Inspired Gradient Label -->
-<p align="center">
-  <img src="img/iccv2025-highlight.svg" alt="ICCV 2025 Highlight" />
-</p>
+<!-- Hawaii-Inspired Elegant Text -->
+<h3 align="center">
+  <sub>🌺━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌺</sub><br/>
+  <em><strong>✨ ICCV 2025 Highlight ✨</strong></em><br/>
+  <sub>🌺━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌺</sub>
+</h3>
 
 <br/>
 
