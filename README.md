@@ -37,6 +37,8 @@
   <p><em><strong>(a)</strong> Most existing optimizer-centric MTL methods largely focus on addressing conflicts in model update. <strong>(b)</strong> Our Rep-MTL instead exploits the shared representation space to explicitly facilitate cross-task information sharing while preserving task-specific learning signals by regularization without optimizer modifications.</em></p>
 </div>
 
+<br/>
+
 
 ## Overview
 
