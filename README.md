@@ -34,7 +34,7 @@
 
 <div align="center">
   <img src="img/Teaser.png" alt="Rep-MTL Method Overview" width="80%"/>
-  <p><em><strong>(a)</strong> Existing optimizer-centric MTL methods largely focus on addressing conflicts in model update. <strong>(b)</strong> Rep-MTL instead exploits the shared representation space to explicitly facilitate cross-task sharing while preserving task-specific signals without optimizer modifications.</em></p>
+  <p><em><strong>(a)</strong> Existing optimizer-centric MTL methods largely focus on addressing conflicts in model update. <strong>(b)</strong> Rep-MTL instead exploits the shared representation space to explicitly facilitate cross-task information sharing while preserving task-specific learning signals without optimizer modifications.</em></p>
 </div>
 
 
