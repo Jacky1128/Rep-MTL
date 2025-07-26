@@ -34,7 +34,7 @@
 <div align="center" style="margin: 40px 0;">
   <img src="img/Teaser.png" alt="Rep-MTL Teaser" width="85%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15); border: 1px solid #e5e7eb;"/>
   <p style="margin-top: 12px; color: #6b7280; font-size: 14px; font-style: italic;">
-    (a) Existing methods focus on optimizer-centric strategies to address conflicts in model update. (b) Rep-MTL instead exploits shared representation space to facilitate cross-task sharing while preserving task-specific learning signals without optimizer changes.
+    (a) Existing optimizer-centric methods aim to address conflicts in model update. (b) Rep-MTL instead exploits shared representation space to facilitate cross-task sharing while preserving task-specific learning signals without optimizer changes.
   </p>
 </div>
 
