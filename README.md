@@ -52,7 +52,7 @@ Rep-MTL is a representation-level regularization method for multi-task learning 
 
 ## Contact
 
-For questions or research exchanges, please reach out to [Zedong Wang](https://jacky1128.github.io) (`zedong.wang@connect.ust.hk`).
+For questions or research exchanges, please reach out to [Zedong Wang](https://jacky1128.github.io) via `zedong.wang@connect.ust.hk`.
 
 
 
