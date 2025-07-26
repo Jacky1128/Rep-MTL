@@ -71,6 +71,4 @@ For questions or research exchanges, please reach out to [Zedong Wang](https://j
 
 ## Acknowledgements
 
-We extend our gratitude to the excellent public repositories that have supported our work: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [FAMO](https://github.com/Cranial-XIX/FAMO). We also thank the broader MTL community for their inspiring contributions.
-
-
+We extend our gratitude to the excellent public repositories that have supported our work: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [MTAN](https://github.com/lorenmt/mtan), [FAMO](https://github.com/Cranial-XIX/FAMO), [Nash-MTL](https://github.com/AvivNavon/nash-mtl). We also thank the broader MTL community for their inspiring contributions.
