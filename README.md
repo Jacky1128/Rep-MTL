@@ -1,23 +1,24 @@
 <div align="center">
-<h1>Rep-MTL: Unleashing the Power of Representation-level Task Saliency for Multi-Task Learning</h1>
 
-<!-- Hawaii-Inspired Gradient Text -->
+# Rep-MTL: Unleashing the Power of Representation-level Task Saliency for Multi-Task Learning
+
 <p align="center">
   <img src="img/iccv2025-highlight.png" alt="ICCV 2025 Highlight" width="70%" />
 </p>
 
-
-<a href="https://arxiv.org/abs/2503.11651"><img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b" alt="arXiv"></a>
-<a href="https://vgg-t.github.io/"><img src="https://img.shields.io/badge/Project_Page-4CAF50" alt="Project Page"></a>
-<a href='https://huggingface.co/spaces/facebook/vggt'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
-<a href="https://github.com/Jacky1128/RepMTL/stargazers"><img src="https://img.shields.io/github/stars/Jacky1128/RepMTL?style=social" alt="Stars"></a>
+<p align="center">
+  <a href="https://arxiv.org/abs/2503.11651"><img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b" alt="arXiv"></a>
+  <a href="https://vgg-t.github.io/"><img src="https://img.shields.io/badge/Project_Page-4CAF50" alt="Project Page"></a>
+  <a href='https://huggingface.co/spaces/facebook/vggt'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
+  <a href="https://github.com/Jacky1128/RepMTL/stargazers"><img src="https://img.shields.io/github/stars/Jacky1128/RepMTL?style=social" alt="Stars"></a>
+</p>
 
 <br/>
-<br/>
 
-[Zedong Wang](https://jacky1128.github.io)<sup>1</sup>, [Siyuan Li](https://lupin1998.github.io)<sup>2</sup>, [Dan Xu](https://www.danxurgb.net)<sup>1</sup>
+**[Zedong Wang](https://jacky1128.github.io)<sup>1</sup> · [Siyuan Li](https://lupin1998.github.io)<sup>2</sup> · [Dan Xu](https://www.danxurgb.net)<sup>1</sup>**
 
-<sup>1</sup>The Hong Kong University of Science and Technology,  <sup>2</sup>Zhejiang University
+<sup>1</sup>*The Hong Kong University of Science and Technology* · <sup>2</sup>*Zhejiang University*
+
 </div>
 
 
