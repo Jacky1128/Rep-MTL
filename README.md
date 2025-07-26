@@ -1,17 +1,26 @@
 <div align="center">
 <h1>Rep-MTL: Unleashing the Power of Representation-level Task Saliency for Multi-Task Learning</h1>
 
+<!-- Elegant Highlight Label -->
+<p align="center" style="margin: 10px 0;">
+  <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 600; font-size: 18px; letter-spacing: 1px;">
+    ✨ ICCV 2025 Highlight ✨
+  </span>
+</p>
+
+<br/>
+
 <a href="https://arxiv.org/abs/2503.11651"><img src="https://img.shields.io/badge/arXiv-2503.11651-b31b1b" alt="arXiv"></a>
 <a href="https://vgg-t.github.io/"><img src="https://img.shields.io/badge/Project_Page-4CAF50" alt="Project Page"></a>
 <a href='https://huggingface.co/spaces/facebook/vggt'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
 <a href="https://github.com/Jacky1128/RepMTL/stargazers"><img src="https://img.shields.io/github/stars/Jacky1128/RepMTL?style=social" alt="Stars"></a>
 
+<br/>
+<br/>
 
 [Zedong Wang](https://jacky1128.github.io)<sup>1</sup>, [Siyuan Li](https://lupin1998.github.io)<sup>2</sup>, [Dan Xu](https://www.danxurgb.net)<sup>1</sup>
 
 <sup>1</sup>The Hong Kong University of Science and Technology,  <sup>2</sup>Zhejiang University
-
-✨ ICCV 2025 Highlight ✨
 </div>
 
 
