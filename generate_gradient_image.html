@@ -18,12 +18,8 @@
         // Clear canvas
         ctx.clearRect(0, 0, canvas.width, canvas.height);
         
-        // Create enhanced Hawaii coral gradient with stronger contrast
-        const gradient = ctx.createLinearGradient(0, 0, canvas.width, 0);
-        gradient.addColorStop(0, '#FF8A80');    // Light coral (brighter start)
-        gradient.addColorStop(0.33, '#FF5252');  // Medium coral-red
-        gradient.addColorStop(0.66, '#E53935');  // Deep coral-red
-        gradient.addColorStop(1, '#C62828');     // Dark coral-red (stronger end)
+        // Classic Hawaii hibiscus flower color
+        const hawaiiFlower = '#FF5722'; // Classic Hawaiian hibiscus red-orange
         
         // Set large font
         ctx.font = 'bold 36px Arial, sans-serif';
@@ -38,8 +34,8 @@
         ctx.fillText('✨', centerX - 200, centerY);
         ctx.fillText('✨', centerX + 200, centerY);
         
-        // Draw gradient text
-        ctx.fillStyle = gradient;
+        // Draw text in classic Hawaii flower color
+        ctx.fillStyle = hawaiiFlower;
         ctx.fillText('ICCV 2025 Highlight', centerX, centerY);
         
         function downloadImage() {
