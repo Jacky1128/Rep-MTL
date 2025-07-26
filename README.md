@@ -25,7 +25,7 @@
 
 **[Zedong Wang](https://jacky1128.github.io)<sup>1</sup>, [Siyuan Li](https://lupin1998.github.io)<sup>2</sup>, [Dan Xu](https://www.danxurgb.net)<sup>1</sup>**
 
-<sup>1</sup>*The Hong Kong University of Science and Technology* · <sup>2</sup>*Zhejiang University*
+<sup>1</sup>*The Hong Kong University of Science and Technology*, <sup>2</sup>*Zhejiang University*
 
 </div>
 
