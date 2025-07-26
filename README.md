@@ -2,11 +2,10 @@
 
 # Rep-MTL: Unleashing the Power of Representation-level Task Saliency for Multi-Task Learning
 
-<!-- Hawaiian Tropical Flower Inspired ICCV 2025 Highlight -->
+<!-- ICCV 2025 Highlight -->
 <div align="center" style="margin: 35px 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16&height=140&section=header&text=ICCV%202025%20Highlight%20Paper&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Honolulu%2C%20Hawaii&descSize=19&descAlignY=62&fontFamily=Playfair+Display" width="100%"/>
 </div>
-
 
 <p align="center">
   <a href="https://jacky1128.github.io/repmtl-page/" style="text-decoration: none;">
@@ -20,9 +19,7 @@
   </a>
 </p>
 
-
-
-
+<!-- Authors -->
 **[Zedong Wang](https://jacky1128.github.io)<sup>1</sup>, [Siyuan Li](https://lupin1998.github.io)<sup>2</sup>, [Dan Xu](https://www.danxurgb.net)<sup>1</sup>**
 
 <sup>1</sup>The Hong Kong University of Science and Technology, <sup>2</sup>Zhejiang University
@@ -32,6 +29,7 @@
 <br/>
 <br/>
 
+<!-- Teaser -->
 <div align="center">
   <img src="img/Teaser.png" alt="Rep-MTL Method Overview" width="80%"/>
   <p><em><strong>(a)</strong> Most existing optimizer-centric MTL methods largely focus on addressing conflicts in model update. <strong>(b)</strong> Our Rep-MTL instead exploits the shared representation space to explicitly facilitate cross-task information sharing while preserving task-specific learning signals via regularization without optimizer modifications.</em></p>
