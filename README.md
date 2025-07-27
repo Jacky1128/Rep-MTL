@@ -82,4 +82,4 @@ For questions or research discussions, please contact [Zedong Wang](https://jack
 
 ## Acknowledgements
 
-We thank the authors of the following excellent repositories that facilitated our research: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [MTAN](https://github.com/lorenmt/mtan), [FAMO](https://github.com/Cranial-XIX/FAMO), and [Nash-MTL](https://github.com/AvivNavon/nash-mtl). We also extend our appreciation to the broader MTL community for their foundational contributions that inspired this work.
+We thank the authors of the following excellent repositories that facilitated our research: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [MTAN](https://github.com/lorenmt/mtan), [FAMO](https://github.com/Cranial-XIX/FAMO), and [Nash-MTL](https://github.com/AvivNavon/nash-mtl). We also extend our appreciation to many other MTL studies in the community for their foundational contributions that inspired this work.
