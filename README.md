@@ -43,6 +43,19 @@ Rep-MTL is a representation-level regularization method for multi-task learning 
 
 
 
+## Benchmarks
+
+We evaluate Rep-MTL on several challenging MTL benchmarks spanning diverse computer vision scenarios:
+
+| Dataset | Tasks | Scenario | Download |
+|---------|-------|--------|----------|
+| [NYUv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) | Seg + Depth + Normal | Indoor Dense Prediction | [Link](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) |
+| [CityScapes](https://www.cityscapes-dataset.com/) | Seg + Instance + Depth | Outdoor Dense Prediction | [Link](https://www.cityscapes-dataset.com/downloads/) |
+| [Office-31](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/) | Image Classification (31 classes) | Domain Adaptation | [Link](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/) |
+| [Office-Home](https://www.hemanthdv.org/officeHomeDataset.html) | Image Classification (65 classes) | Domain Adaptation | [Link](https://www.hemanthdv.org/officeHomeDataset.html) |
+
+
+
 ## Updates
 - **[July 24, 2025]** 🎉 Rep-MTL was selected as **Highlight** by ICCV 2025! We are working on cleaning and re-organizing our codebase. Stay tuned for updates!
 - **[June 26, 2025]** Rep-MTL has been accepted to ICCV 2025!
