@@ -49,8 +49,8 @@ We evaluate Rep-MTL on several challenging MTL benchmarks spanning diverse compu
 
 | Dataset | Tasks | Scenario | Download |
 |---------|-------|--------|----------|
-| [NYUv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) | Segmentation + Depth + Normal | Indoor Dense Prediction | [Link](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) |
-| [CityScapes](https://www.cityscapes-dataset.com/) | Segmentation + Depth | Outdoor Dense Prediction | [Link](https://www.cityscapes-dataset.com/downloads/) |
+| [NYUv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) | Segmentation + Depth Estimation + Surface Normal Prediction | Indoor Dense Prediction | [Link](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) |
+| [CityScapes](https://www.cityscapes-dataset.com/) | Segmentation + Depth Estimation | Outdoor Dense Prediction | [Link](https://www.cityscapes-dataset.com/downloads/) |
 | [Office-31](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/) | Image Classification (31 classes) | Domain Adaptation | [Link](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/) |
 | [Office-Home](https://www.hemanthdv.org/officeHomeDataset.html) | Image Classification (65 classes) | Domain Adaptation | [Link](https://www.hemanthdv.org/officeHomeDataset.html) |
 
