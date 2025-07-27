@@ -8,13 +8,13 @@
 </div>
 
 <p align="center">
-  <a href="https://jacky1128.github.io/repmtl-page/" style="text-decoration: none;">
+  <a href="https://jacky1128.github.io/RepMTL/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/arXiv-underreview-b31b1b.svg?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
   </a>
   <a href="https://jacky1128.github.io/RepMTL/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/PROJECT-RepMTL-blue.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Project Page"/>
   </a>
-  <a href="https://jacky1128.github.io/repmtl-page/" style="text-decoration: none;">
+  <a href="https://jacky1128.github.io/RepMTL/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/🤗%20HUGGINGFACE-DailyPaper-yellow.svg?style=for-the-badge&logoColor=white" alt="Demo"/>
   </a>
 </p>
