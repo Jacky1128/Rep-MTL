@@ -32,7 +32,7 @@
 <!-- Teaser -->
 <div align="center">
   <img src="img/Teaser.png" alt="Rep-MTL Method Overview" width="80%"/>
-  <p><em><strong>(a)</strong> Most existing optimizer-centric MTL methods largely focus on addressing conflicts in model update. <strong>(b)</strong> Our Rep-MTL instead exploits the shared representation space to explicitly facilitate cross-task information sharing while preserving task-specific learning signals via regularization without optimizer modifications.</em></p>
+  <p><em><strong>(a)</strong> Most existing optimizer-centric MTL methods focus on addressing conflicts in model updates. <strong>(b)</strong> Our Rep-MTL instead leverages the shared representation space to explicitly facilitate cross-task information sharing while preserving task-specific signals via regularization without optimizer modifications.</em></p>
 </div>
 
 
@@ -57,13 +57,13 @@ We evaluate Rep-MTL on several challenging MTL benchmarks spanning diverse compu
 
 
 ## Updates
-- **[July 24, 2025]** 🎉 Rep-MTL was selected as **Highlight** by ICCV 2025! We are working on cleaning and re-organizing our codebase. Stay tuned for updates!
-- **[June 26, 2025]** Rep-MTL has been accepted to ICCV 2025!
+- **[July 24, 2025]** 🎉 Rep-MTL was selected as **ICCV 2025 Highlight**! Codebase preparation is underway—stay tuned for the release!
+- **[June 26, 2025]** Rep-MTL was accepted to **ICCV 2025**!
 
 
 ## Contact
 
-For questions or research exchanges, please reach out to [Zedong Wang](https://jacky1128.github.io) via `zedong.wang@connect.ust.hk`.
+For questions, collaborations, or research discussions, please contact [Zedong Wang](https://jacky1128.github.io) at `zedong.wang@connect.ust.hk`.
 
 
 
@@ -82,4 +82,4 @@ For questions or research exchanges, please reach out to [Zedong Wang](https://j
 
 ## Acknowledgements
 
-We extend our gratitude to the excellent public repositories that have supported our work: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [MTAN](https://github.com/lorenmt/mtan), [FAMO](https://github.com/Cranial-XIX/FAMO), [Nash-MTL](https://github.com/AvivNavon/nash-mtl). We also thank the broader MTL community for their inspiring contributions.
+We thank the authors of the following excellent repositories that facilitated our research: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [MTAN](https://github.com/lorenmt/mtan), [FAMO](https://github.com/Cranial-XIX/FAMO), and [Nash-MTL](https://github.com/AvivNavon/nash-mtl). We also extend our appreciation to the broader MTL community for their foundational contributions that inspired this work.
