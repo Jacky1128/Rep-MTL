@@ -58,7 +58,7 @@ We evaluate Rep-MTL on several challenging MTL benchmarks spanning diverse compu
 
 ## Updates
 - **[July 24, 2025]** 🎉 Rep-MTL was selected as **ICCV 2025 Highlight**! We are working on cleaning and organizing our codebase. Stay tuned!
-- **[June 26, 2025]** Rep-MTL was accepted to **ICCV 2025**!
+- **[June 26, 2025]** Rep-MTL was accepted to **ICCV 2025**, with final ratings: 5/5/6 (out of 6).
 
 
 ## Contact
