@@ -63,7 +63,7 @@ We evaluate Rep-MTL on several challenging MTL benchmarks spanning diverse compu
 
 ## Contact
 
-For questions, collaborations, or research discussions, please contact [Zedong Wang](https://jacky1128.github.io) at `zedong.wang@connect.ust.hk`.
+For questions or research discussions, please contact [Zedong Wang](https://jacky1128.github.io) at `zedong.wang@connect.ust.hk`.
 
 
 
