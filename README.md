@@ -8,19 +8,19 @@
 </div>
 
 <p align="center">
-  <a href="https://jacky1128.github.io/RepMTL/" style="text-decoration: none;">
+  <a href="https://arxiv.org/abs/2507.21049" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/badge/arXiv-underreview-b31b1b.svg?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
   </a>
-  <a href="https://jacky1128.github.io/RepMTL/" style="text-decoration: none;">
+  <a href="https://jacky1128.github.io/RepMTL/" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/badge/PROJECT-RepMTL-blue.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Project Page"/>
   </a>
-  <a href="https://jacky1128.github.io/RepMTL/" style="text-decoration: none;">
+  <a href="https://arxiv.org/abs/2507.21049" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/badge/🤗%20HUGGINGFACE-DailyPaper-yellow.svg?style=for-the-badge&logoColor=white" alt="Demo"/>
   </a>
 </p>
 
 <!-- Authors -->
-**[Zedong Wang](https://jacky1128.github.io)<sup>1</sup>, [Siyuan Li](https://lupin1998.github.io)<sup>2</sup>, [Dan Xu](https://www.danxurgb.net)<sup>1</sup>**
+**<a href="https://jacky1128.github.io" target="_blank">Zedong Wang</a><sup>1</sup>, <a href="https://lupin1998.github.io" target="_blank">Siyuan Li</a><sup>2</sup>, <a href="https://www.danxurgb.net" target="_blank">Dan Xu</a><sup>1</sup>**
 
 <sup>1</sup>The Hong Kong University of Science and Technology, <sup>2</sup>Zhejiang University
 
@@ -49,10 +49,10 @@ We evaluate Rep-MTL on several challenging MTL benchmarks spanning diverse compu
 
 | Dataset | Tasks | Scenario | Download |
 |---------|-------|--------|----------|
-| [NYUv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) | SemSeg + Depth Est. + Surface Normal Pred. | Indoor Dense Prediction | [Link](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) |
-| [CityScapes](https://www.cityscapes-dataset.com/) | SemSeg + Depth Est. | Outdoor Dense Prediction | [Link](https://www.cityscapes-dataset.com/downloads/) |
-| [Office-31](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/) | Image Classification (31 classes) | Domain Adaptation | [Link](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/) |
-| [Office-Home](https://www.hemanthdv.org/officeHomeDataset.html) | Image Classification (65 classes) | Domain Adaptation | [Link](https://www.hemanthdv.org/officeHomeDataset.html) |
+| <a href="https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html" target="_blank">NYUv2</a> | SemSeg + Depth Est. + Surface Normal Pred. | Indoor Dense Prediction | <a href="https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html" target="_blank">Link</a> |
+| <a href="https://www.cityscapes-dataset.com/" target="_blank">CityScapes</a> | SemSeg + Depth Est. | Outdoor Dense Prediction | <a href="https://www.cityscapes-dataset.com/downloads/" target="_blank">Link</a> |
+| <a href="https://people.eecs.berkeley.edu/~jhoffman/domainadapt/" target="_blank">Office-31</a> | Image Classification (31 classes) | Domain Adaptation | <a href="https://people.eecs.berkeley.edu/~jhoffman/domainadapt/" target="_blank">Link</a> |
+| <a href="https://www.hemanthdv.org/officeHomeDataset.html" target="_blank">Office-Home</a> | Image Classification (65 classes) | Domain Adaptation | <a href="https://www.hemanthdv.org/officeHomeDataset.html" target="_blank">Link</a> |
 
 
 
@@ -63,7 +63,7 @@ We evaluate Rep-MTL on several challenging MTL benchmarks spanning diverse compu
 
 ## Contact
 
-For questions or research discussions, please contact [Zedong Wang](https://jacky1128.github.io) at `zedong.wang@connect.ust.hk`.
+For questions or research discussions, please contact <a href="https://jacky1128.github.io" target="_blank">Zedong Wang</a> at `zedong.wang@connect.ust.hk`.
 
 
 
@@ -82,4 +82,4 @@ For questions or research discussions, please contact [Zedong Wang](https://jack
 
 ## Acknowledgements
 
-We thank the following great repositories that facilitated our research: [LibMTL](https://github.com/median-research-group/LibMTL), [CAGrad](https://github.com/Cranial-XIX/CAGrad), [MTAN](https://github.com/lorenmt/mtan), [FAMO](https://github.com/Cranial-XIX/FAMO), and [Nash-MTL](https://github.com/AvivNavon/nash-mtl). We also extend our appreciation to many other studies in the community for their foundational contributions that inspired this work.
+We thank the following great repositories that facilitated our research: <a href="https://github.com/median-research-group/LibMTL" target="_blank">LibMTL</a>, <a href="https://github.com/Cranial-XIX/CAGrad" target="_blank">CAGrad</a>, <a href="https://github.com/lorenmt/mtan" target="_blank">MTAN</a>, <a href="https://github.com/Cranial-XIX/FAMO" target="_blank">FAMO</a>, and <a href="https://github.com/AvivNavon/nash-mtl" target="_blank">Nash-MTL</a>. We also extend our appreciation to many other studies in the community for their foundational contributions that inspired this work.
