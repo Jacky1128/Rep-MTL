@@ -14,7 +14,7 @@
   <a href="https://jacky1128.github.io/RepMTL/" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/badge/PROJECT-RepMTL-blue.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Project Page"/>
   </a>
-  <a href="https://arxiv.org/abs/2507.21049" style="text-decoration: none;" target="_blank">
+  <a href="https://huggingface.co/papers/2507.21049" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/badge/🤗%20HUGGINGFACE-DailyPaper-yellow.svg?style=for-the-badge&logoColor=white" alt="Demo"/>
   </a>
 </p>
@@ -32,7 +32,7 @@
 <!-- Teaser -->
 <div align="center">
   <img src="img/Teaser.png" alt="Rep-MTL Method Overview" width="80%"/>
-  <p><em><strong>(a)</strong> Most existing multi-task optimization methods focus on addressing conflicts in parameter updates. <strong>(b)</strong> Rep-MTL instead leverages task saliency in shared representation space to explicitly facilitate cross-task information sharing while preserving task-specific signals via regularization, without modifications to optimizers or model architectures.</em></p>
+  <p><em><strong>(a)</strong> Most existing MTL optimization methods focus on addressing conflicts in parameter updates. <strong>(b)</strong> Rep-MTL instead leverages task saliency in shared representation space to explicitly facilitate cross-task information sharing while preserving task-specific signals via regularization, without modifications to optimizers or model architectures.</em></p>
 </div>
 
 
