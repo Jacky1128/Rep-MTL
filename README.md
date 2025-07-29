@@ -32,7 +32,7 @@
 <!-- Teaser -->
 <div align="center">
   <img src="img/Teaser.png" alt="Rep-MTL Method Overview" width="80%"/>
-  <p><em><strong>(a)</strong> Most existing multi-task optimization methods focus on addressing conflicts in parameter updates. <strong>(b)</strong> Rep-MTL instead leverages task saliency in shared representation space to explicitly facilitate cross-task information sharing while preserving task-specific signals via regularization without optimizer modifications.</em></p>
+  <p><em><strong>(a)</strong> Most existing multi-task optimization methods focus on addressing conflicts in parameter updates. <strong>(b)</strong> Rep-MTL instead leverages task saliency in shared representation space to explicitly facilitate cross-task information sharing while preserving task-specific signals via regularization, without modifications to optimizers or model architectures.</em></p>
 </div>
 
 
