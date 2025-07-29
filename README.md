@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2507.21049" style="text-decoration: none;" target="_blank">
-    <img src="https://img.shields.io/badge/arXiv-underreview-b31b1b.svg?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
+    <img src="https://img.shields.io/badge/arXiv-2507.21049-b31b1b.svg?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
   </a>
   <a href="https://jacky1128.github.io/RepMTL/" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/badge/PROJECT-RepMTL-blue.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Project Page"/>
