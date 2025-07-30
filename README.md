@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/PROJECT-RepMTL-blue.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Project Page"/>
   </a>
   <a href="https://huggingface.co/papers/2507.21049" style="text-decoration: none;" target="_blank">
-    <img src="https://img.shields.io/badge/🤗%20HuggingFace-Daily%20Top%203-yellow.svg?style=for-the-badge&logoColor=white" alt="HuggingFace Daily Top 3"/>
+    <img src="https://img.shields.io/badge/🤗%20HuggingFace-Daily%20Top%205-yellow.svg?style=for-the-badge&logoColor=white" alt="HuggingFace Daily Top 5"/>
   </a>
 </p>
 
